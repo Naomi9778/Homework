@@ -1,8 +1,9 @@
 
 import "./App.css";
-import Main from "./components/Main.js"
-import Navbar from "./components/Navbar.js"
-import About from "./components/About.js"
+import Main from "./components/Main.js";
+import Navbar from "./components/Navbar.js";
+import About from "./components/About.js";
+import Skills from "./components/Skills.js";
 
 
 
@@ -12,6 +13,7 @@ function App() {
     <Navbar/>
     <Main />
     <About/>
+    <Skills/>
   </div>
 
   )

@@ -5,8 +5,8 @@ const SS = "</SS>"
 
 function Header() {
     return (
-        <div className=" flex mx-auto   items-center justify-center  px-[80px] py-[16px] ">
-            <div className="flex w-[1440px] justify-between">
+        <div className=" flex mx-auto   items-center justify-center   ">
+            <div className="flex w-[1440px]  px-[80px] py-[16px] justify-between">
                 <div>
                     <p className="text-3xl font-bold">{SS}</p>
                 </div>
